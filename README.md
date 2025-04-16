@@ -45,7 +45,7 @@ admin.site.register(Movie,MovieAdmin)
 
 ## OUTPUT
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
